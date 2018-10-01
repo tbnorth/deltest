@@ -1,3 +1,8 @@
+# Tools for tools
+
+ - Visualization technologies are important for interpreting big data generated
+   by new monitoring tools.  Visualization technology is itself an important tool.
+
 # Drifters
 
  - Verify models
