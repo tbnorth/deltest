@@ -51,6 +51,3 @@
 
  - visualization interface accelerates development / debugging
  - review observations against model in context of neighbors / pattern in model
-
-test
-
