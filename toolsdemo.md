@@ -6,7 +6,7 @@
  - Outreach tool
  - Low cost, swarm of data collectors
 
-## Visualisation issues
+## Visualization issues
 
  - review data with ability to see larger patterns
  - select "clean" sections of data
@@ -19,7 +19,7 @@
  - position in space and time relative to other things
  - multiple gliders, reconstruct 3D extent of plumes etc.
 
-## Visualisation issues
+## Visualization issues
 
  - glider moves relatively slowly, temporal component of data important
  - 3D structure in data
@@ -27,10 +27,10 @@
 
 # Agents
 
- - Nowcasting current source of nearshore waters
+ - Now-casting current source of nearshore waters
  - Potential for interactive app. for managers
  
-## Visualisation issues
+## Visualization issues
 
  - public app. may use same interface, provide data and allow exploration of
    how the system works
@@ -40,7 +40,7 @@
  - Simplicity for transparency, measured inputs rather than calibrations
  - Relatively low cost of deployment
 
-## Visualisation issues
+## Visualization issues
 
  - visualization interface accelerates development / debugging
  - review observations against model in context of neighbors / pattern in model
