@@ -1,3 +1,4 @@
+<style> .pagebreak { page-break-after: always; } </style>
 # Tools for tools
 
  - Visualization technologies are important for interpreting big data generated
@@ -30,6 +31,7 @@
  - 3D structure in data
  - overview of big data with ability to drill down
 
+<div class="pagebreak"></div>
 # Agents
 
  - Now-casting current source of nearshore waters
