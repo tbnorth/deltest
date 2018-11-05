@@ -1,4 +1,0 @@
-  - [x] this
-  - [ ] this
-  - [ ] this
-  
